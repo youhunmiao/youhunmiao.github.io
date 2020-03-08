@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://youhunmiao.github.io</id>
     <title>废料储存站</title>
-    <updated>2020-03-02T14:29:18.570Z</updated>
+    <updated>2020-03-08T16:55:42.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://youhunmiao.github.io"/>
     <link rel="self" href="https://youhunmiao.github.io/atom.xml"/>
@@ -11,51 +11,31 @@
     <icon>https://youhunmiao.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 废料储存站</rights>
     <entry>
-        <title type="html"><![CDATA[关于废料储存站如何建立]]></title>
+        <title type="html"><![CDATA[2020.3.8]]></title>
+        <id>https://youhunmiao.github.io/post/202038/</id>
+        <link href="https://youhunmiao.github.io/post/202038/">
+        </link>
+        <updated>2020-03-08T16:33:51.000Z</updated>
+        <content type="html"><![CDATA[<p>很多时候我在想，过去的哪些节点让我变成了现在的自己。</p>
+<p>曾经的我最想做的职业，应该是当一名小说家吧。不知道什么时候，这个想法早就被掩埋在内心深处，说着自己想要投身于互联网事业中，想要同互联网一起见证未来时刻，可扪心自问，自己真的喜欢这个行业嘛？</p>
+<p>今天在整理关于运营的知识点，越发觉得自己其实并没有动力。“在没有想好自己的未来规划，就先跟着大众走吧。”内心这样想道。</p>
+<p>至今没有写过一篇小说，没有完整构思过一个故事情节，为什么我总是停留在口头说说而已呢。</p>
+<p>小琦说，放弃是最容易的做到的，坚持则是最难做到的。我总是那个放弃的人，从考雅思，准备出国，学习日语，找工作，没有一件事我能够坚持下来。我时常在想，我到底擅长什么，现在想来最擅长的就是放弃吧。不得不承认，我就是一个贪图安逸，却又不爱满足的人。总想变得独特，却永远在妥协。</p>
+<p>如果不想活在无限的遗憾与后悔中，那就努力一点吧。不论是做任何事，拿出百分之百的努力去做，不要再留遗憾了。</p>
+<p><strong>我不想做一个一事无成的人，过去不想，现在不想，未来也不想。</strong></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2020.3.6]]></title>
         <id>https://youhunmiao.github.io/post/guan-yu-fei-liao-chu-cun-zhan-ru-he-jian-li/</id>
         <link href="https://youhunmiao.github.io/post/guan-yu-fei-liao-chu-cun-zhan-ru-he-jian-li/">
         </link>
         <updated>2020-03-02T14:16:16.000Z</updated>
         <content type="html"><![CDATA[<!-- more -->
-<p>三月的开始，天气丝毫没有春天的迹象。<br>
-我裹着小毯子在书桌前敲着键盘。</p>
-<h1 id="的故事">🐱的故事</h1>
-<p>大宝和二宝的故事。</p>
-<h2 id="丹娜的故事">丹娜的故事</h2>
-<p>丹娜没有故事。<br>
-<img src="https://youhunmiao.github.io/post-images/1583159154437.png" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://youhunmiao.github.io/post/hello-gridea/</id>
-        <link href="https://youhunmiao.github.io/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+<center>三月的开始 天气丝毫没有春天的迹象 
+<center>我裹着小毯子在书桌前敲着键盘
+<center>脑海中思绪万千
+<center>生活的齿轮依旧向前
 ]]></content>
     </entry>
 </feed>
